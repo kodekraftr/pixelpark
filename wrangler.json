@@ -1,0 +1,11 @@
+{
+    "name": "pixelpark",
+    "compatibility_date": "2025-01-24",
+    "compatibility_flags": [
+      "nodejs_compat"
+    ],
+    "pages_build_output_dir": ".vercel/output/static",
+    "vars": {
+        "NODE_VERSION": "22.11.0"
+    }
+  }
